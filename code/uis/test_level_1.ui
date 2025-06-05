@@ -14,7 +14,7 @@
    <string>Form</string>
   </property>
   <property name="styleSheet">
-   <string notr="true">background-color: rgba(33, 33, 33, 167);</string>
+   <string notr="true">background-color: rgb(33, 33, 33);</string>
   </property>
   <layout class="QVBoxLayout" name="verticalLayout_2">
    <property name="spacing">
@@ -53,7 +53,8 @@
           </font>
          </property>
          <property name="styleSheet">
-          <string notr="true">background-color: rgba(255, 255, 255, 0);</string>
+          <string notr="true">background-color: rgba(255, 255, 255, 0);
+color: rgb(246, 245, 244);</string>
          </property>
          <property name="text">
           <string>example word</string>
@@ -99,7 +100,7 @@
         <number>6</number>
        </property>
        <item>
-        <widget class="QLineEdit" name="lineEdit">
+        <widget class="QLineEdit" name="line_translate">
          <property name="minimumSize">
           <size>
            <width>200</width>
@@ -108,10 +109,14 @@
          </property>
          <property name="styleSheet">
           <string notr="true">border-radius: 15px;
+color: rgb(246, 245, 244);
 background-color: rgba(220, 220, 220, 167);
 border: 2px solid #000;
 padding-left: 5px;
 padding-right: 5px;</string>
+         </property>
+         <property name="text">
+          <string/>
          </property>
          <property name="placeholderText">
           <string>Введите перевод</string>
@@ -119,7 +124,7 @@ padding-right: 5px;</string>
         </widget>
        </item>
        <item>
-        <widget class="QPushButton" name="pushButton">
+        <widget class="QPushButton" name="but_check">
          <property name="styleSheet">
           <string notr="true">QPushButton {
 color: rgb(250, 250, 250);
@@ -146,7 +151,7 @@ border: 2px solid #000;
       </layout>
      </item>
      <item>
-      <widget class="QWidget" name="" native="true">
+      <widget class="QWidget" name="widget" native="true">
        <property name="styleSheet">
         <string notr="true">background-color: rgba(23, 23, 23, 148);</string>
        </property>
@@ -158,12 +163,15 @@ border: 2px solid #000;
          <number>6</number>
         </property>
         <item>
-         <widget class="QLabel" name="label_3">
+         <widget class="QLabel" name="label_correct_answer">
           <property name="sizePolicy">
            <sizepolicy hsizetype="Preferred" vsizetype="Maximum">
             <horstretch>0</horstretch>
             <verstretch>0</verstretch>
            </sizepolicy>
+          </property>
+          <property name="styleSheet">
+           <string notr="true">color: rgb(246, 245, 244);</string>
           </property>
           <property name="text">
            <string>Right: 0</string>
@@ -171,7 +179,7 @@ border: 2px solid #000;
          </widget>
         </item>
         <item>
-         <widget class="QPushButton" name="pushButton_3">
+         <widget class="QPushButton" name="but_back">
           <property name="sizePolicy">
            <sizepolicy hsizetype="Maximum" vsizetype="Maximum">
             <horstretch>0</horstretch>
@@ -198,7 +206,7 @@ border: 1px solid #ffffff;
          </widget>
         </item>
         <item>
-         <widget class="QPushButton" name="pushButton_2">
+         <widget class="QPushButton" name="but_next">
           <property name="sizePolicy">
            <sizepolicy hsizetype="Maximum" vsizetype="Maximum">
             <horstretch>0</horstretch>
@@ -225,12 +233,15 @@ border: 1px solid #ffffff;
          </widget>
         </item>
         <item>
-         <widget class="QLabel" name="label_4">
+         <widget class="QLabel" name="label_count_list">
           <property name="sizePolicy">
            <sizepolicy hsizetype="Preferred" vsizetype="Maximum">
             <horstretch>0</horstretch>
             <verstretch>0</verstretch>
            </sizepolicy>
+          </property>
+          <property name="styleSheet">
+           <string notr="true">color: rgb(246, 245, 244);</string>
           </property>
           <property name="text">
            <string>0/0</string>
