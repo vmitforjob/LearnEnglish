@@ -15,7 +15,7 @@ class ViewWord(QWidget):
         self.label_word.setText(word.name)
         self.label_transcription.setText(word.transcription)
         self.label_translate.setText(word.translations[0].translation)
-        #
+
 
 if __name__ == '__main__':
     app = QApplication(sys.argv)
