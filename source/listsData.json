@@ -1,0 +1,16 @@
+{
+    "vLists": [
+        {
+            "name": "The Big Bang Theory S1 E2",
+            "number": 66,
+            "numberLearned": 0,
+            "pathListWords": "The Big Bang Theory S1 E2.json"
+        },
+        {
+            "name": "The Big Bang Theory S1 E1",
+            "number": 129,
+            "numberLearned": 0,
+            "pathListWords": "The Big Bang Theory S1 E1.json"
+        }
+    ]
+}

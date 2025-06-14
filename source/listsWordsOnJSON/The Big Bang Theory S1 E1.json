@@ -1,0 +1,1456 @@
+{
+    "words": [
+        {
+            "name": "take your time",
+            "transcription": "",
+            "translations": [
+                {
+                    "translation": "не торопитесь"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "semipro",
+            "transcription": "",
+            "translations": [
+                {
+                    "translation": "полупрофессионал"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "commit",
+            "transcription": "[kəˈmɪt]",
+            "translations": [
+                {
+                    "translation": "совершить"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "genetic",
+            "transcription": "[ʤɪˈnetɪk]",
+            "translations": [
+                {
+                    "translation": "генетический"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "fraud",
+            "transcription": "[frɔːd]",
+            "translations": [
+                {
+                    "translation": "мошенничество"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "genetate",
+            "transcription": "",
+            "translations": [
+                {
+                    "translation": "порождать"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "offspring",
+            "transcription": "[ˈɒfsprɪŋ]",
+            "translations": [
+                {
+                    "translation": "отпрыск"
+                },
+                {
+                    "translation": "потомство"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "hostess",
+            "transcription": "[ˈhəʊstɪs]",
+            "translations": [
+                {
+                    "translation": "хозяйка"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "fractional",
+            "transcription": "[ˈfrækʃnəl]",
+            "translations": [
+                {
+                    "translation": "дробный"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "bandwidth",
+            "transcription": "[ˈbændwɪdθ]",
+            "translations": [
+                {
+                    "translation": "пропускная способность"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "yearn",
+            "transcription": "[jɜːn]",
+            "translations": [
+                {
+                    "translation": "тосковать"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "pin",
+            "transcription": "[pɪn]",
+            "translations": [
+                {
+                    "translation": "возлагать"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "toddler",
+            "transcription": "[ˈtɒdlə]",
+            "translations": [
+                {
+                    "translation": "младенец"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "curve",
+            "transcription": "[kɜːv]",
+            "translations": [
+                {
+                    "translation": "изгиб"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "renege",
+            "transcription": "[rɪˈniːg]",
+            "translations": [
+                {
+                    "translation": "отступать"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "proffer",
+            "transcription": "[ˈprɒfə]",
+            "translations": [
+                {
+                    "translation": "предлагать"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "trip",
+            "transcription": "[trɪp]",
+            "translations": [
+                {
+                    "translation": "споткнуться"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "clavicle",
+            "transcription": "[ˈklævɪkl]",
+            "translations": [
+                {
+                    "translation": "ключица"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "boarding school",
+            "transcription": "",
+            "translations": [
+                {
+                    "translation": "школа интернат"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "evidently",
+            "transcription": "[ˈevɪdəntlɪ]",
+            "translations": [
+                {
+                    "translation": "очевидно"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "significant",
+            "transcription": "[sɪgˈnɪfɪkənt]",
+            "translations": [
+                {
+                    "translation": "существенный"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "improvement",
+            "transcription": "[ɪmˈpruːvmənt]",
+            "translations": [
+                {
+                    "translation": "улучшение"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "condition",
+            "transcription": "[kənˈdɪʃn]",
+            "translations": [
+                {
+                    "translation": "состояние"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "interrupt",
+            "transcription": "[ɪntəˈrʌpt]",
+            "translations": [
+                {
+                    "translation": "прерывать"
+                },
+                {
+                    "translation": "нарушать"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "hall",
+            "transcription": "[hɔːl]",
+            "translations": [
+                {
+                    "translation": "зал"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "heterosexual",
+            "transcription": "[hetərəˈsekʃʊəl]",
+            "translations": [
+                {
+                    "translation": "натурал"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "widen",
+            "transcription": "[waɪdn]",
+            "translations": [
+                {
+                    "translation": "расширять"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "appropriate",
+            "transcription": "",
+            "translations": [
+                {
+                    "translation": "подходящий"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "response",
+            "transcription": "[rɪsˈpɒns]",
+            "translations": [
+                {
+                    "translation": "ответ"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "laxative",
+            "transcription": "[ˈlæksətɪv]",
+            "translations": [
+                {
+                    "translation": "слабительное"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "reference",
+            "transcription": "[ˈrefrəns]",
+            "translations": [
+                {
+                    "translation": "ссылка"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "bowel",
+            "transcription": "[ˈbaʊəl]",
+            "translations": [
+                {
+                    "translation": "кишка"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "movement",
+            "transcription": "[ˈmuːvmənt]",
+            "translations": [
+                {
+                    "translation": "движение"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "edges",
+            "transcription": "[ˈeʤɪz]",
+            "translations": [
+                {
+                    "translation": "края"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "spoof",
+            "transcription": "[spuːf]",
+            "translations": [
+                {
+                    "translation": "подмена"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "approximation",
+            "transcription": "[əprɒksɪˈmeɪʃn]",
+            "translations": [
+                {
+                    "translation": "приближение"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "holy smokes",
+            "transcription": "",
+            "translations": [
+                {
+                    "translation": "Ч рт возьми"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "derivative",
+            "transcription": "[dɪˈrɪvətɪv]",
+            "translations": [
+                {
+                    "translation": "производное"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "restatement",
+            "transcription": "[riːˈsteɪtmənt]",
+            "translations": [
+                {
+                    "translation": "пересмотр"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "scribble",
+            "transcription": "[skrɪbl]",
+            "translations": [
+                {
+                    "translation": "нацарапать"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "brokenhearted",
+            "transcription": "[ˈbrəʊkənhɑːtɪd]",
+            "translations": [
+                {
+                    "translation": "несчастный"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "dimension",
+            "transcription": "[dɪˈmenʃn]",
+            "translations": [
+                {
+                    "translation": "измерение"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "invent",
+            "transcription": "[ɪnˈvent]",
+            "translations": [
+                {
+                    "translation": "изобретать"
+                },
+                {
+                    "translation": "выдумывать"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "universe",
+            "transcription": "[ˈjuːnɪvɜːs]",
+            "translations": [
+                {
+                    "translation": "вселенная"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "difference",
+            "transcription": "[ˈdɪfrəns]",
+            "translations": [
+                {
+                    "translation": "разница"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "direct",
+            "transcription": "[dɪˈrekt]",
+            "translations": [
+                {
+                    "translation": "прямой"
+                },
+                {
+                    "translation": "направлять"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "discouraging",
+            "transcription": "[dɪsˈkʌrɪʤɪŋ]",
+            "translations": [
+                {
+                    "translation": "обескураживающий"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "conversation",
+            "transcription": "[kɒnvəˈseɪʃn]",
+            "translations": [
+                {
+                    "translation": "разговор"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "parallax",
+            "transcription": "[ˈpærəlæks]",
+            "translations": [
+                {
+                    "translation": "смещение"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "distortion",
+            "transcription": "[dɪsˈtɔːʃn]",
+            "translations": [
+                {
+                    "translation": "искажение"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "resent",
+            "transcription": "[rɪˈzent]",
+            "translations": [
+                {
+                    "translation": "возмущаться"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "implication",
+            "transcription": "[ɪmplɪˈkeɪʃn]",
+            "translations": [
+                {
+                    "translation": "значение"
+                },
+                {
+                    "translation": "смысл"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "participate",
+            "transcription": "[pɑːˈtɪsɪpeɪt]",
+            "translations": [
+                {
+                    "translation": "участвовать"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "delusion",
+            "transcription": "[dɪˈluːʒən]",
+            "translations": [
+                {
+                    "translation": "заблуждение"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "relative",
+            "transcription": "[ˈrelətɪv]",
+            "translations": [
+                {
+                    "translation": "родственник"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "arbitrary",
+            "transcription": "[ˈɑːbɪtrərɪ]",
+            "translations": [
+                {
+                    "translation": "произвольный"
+                },
+                {
+                    "translation": "случайный"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "constellation",
+            "transcription": "[kɒnstɪˈleɪʃn]",
+            "translations": [
+                {
+                    "translation": "созвездие"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "steak",
+            "transcription": "[steɪk]",
+            "translations": [
+                {
+                    "translation": "стейк"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "occasional",
+            "transcription": "[əˈkeɪʒ(ə)nəl]",
+            "translations": [
+                {
+                    "translation": "случайный"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "corn",
+            "transcription": "[kɔːn]",
+            "translations": [
+                {
+                    "translation": "кукуруза"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "intolerant",
+            "transcription": "[ɪnˈtɒlərənt]",
+            "translations": [
+                {
+                    "translation": "нетолерантный"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "screenplay",
+            "transcription": "[ˈskriːnpleɪ]",
+            "translations": [
+                {
+                    "translation": "киносценарий"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "sensitive",
+            "transcription": "[ˈsensɪtɪv]",
+            "translations": [
+                {
+                    "translation": "чувствительный"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "pathetic",
+            "transcription": "[pəˈθetɪk]",
+            "translations": [
+                {
+                    "translation": "жалкий"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "confirm",
+            "transcription": "[kənˈfɜːm]",
+            "translations": [
+                {
+                    "translation": "подтверждать"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "slit",
+            "transcription": "[slɪt]",
+            "translations": [
+                {
+                    "translation": "щель"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "discover",
+            "transcription": "[dɪsˈkʌvə]",
+            "translations": [
+                {
+                    "translation": "обнаруживать"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "development",
+            "transcription": "[dɪˈveləpmənt]",
+            "translations": [
+                {
+                    "translation": "развитие"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "point taken",
+            "transcription": "",
+            "translations": [
+                {
+                    "translation": "точка зрения принята"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "rip our eyes out",
+            "transcription": "",
+            "translations": [
+                {
+                    "translation": "вырвите нам глаза"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "exactly",
+            "transcription": "[ɪgˈzæktlɪ]",
+            "translations": [
+                {
+                    "translation": "именно так"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "accomplish",
+            "transcription": "[əˈkʌmplɪʃ]",
+            "translations": [
+                {
+                    "translation": "достигать"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "disappoint",
+            "transcription": "[dɪsəˈpɔɪnt]",
+            "translations": [
+                {
+                    "translation": "разочаровывать"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "species",
+            "transcription": "[ˈspiːʃiːz]",
+            "translations": [
+                {
+                    "translation": "биологический вид"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "engage",
+            "transcription": "[ɪnˈgeɪʤ]",
+            "translations": [
+                {
+                    "translation": "вовлекать"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "hypothetical",
+            "transcription": "[haɪpəˈθetɪkl]",
+            "translations": [
+                {
+                    "translation": "гипотетический"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "carnal",
+            "transcription": "[kɑːnl]",
+            "translations": [
+                {
+                    "translation": "плотский"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "develop",
+            "transcription": "[dɪˈveləp]",
+            "translations": [
+                {
+                    "translation": "развить"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "briefly",
+            "transcription": "[ˈbriːflɪ]",
+            "translations": [
+                {
+                    "translation": "кратко"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "possibility",
+            "transcription": "[pɒsəˈbɪlɪtɪ]",
+            "translations": [
+                {
+                    "translation": "возможность"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "hinder",
+            "transcription": "[ˈhɪndə]",
+            "translations": [
+                {
+                    "translation": "препятствовать"
+                },
+                {
+                    "translation": "мешать"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "tear",
+            "transcription": "[tɛəz]",
+            "translations": [
+                {
+                    "translation": "слеза"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "anticipating",
+            "transcription": "[ænˈtɪsɪpeɪtɪŋ]",
+            "translations": [
+                {
+                    "translation": "опережающий"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "coitus",
+            "transcription": "[ˈkɔɪtəs]",
+            "translations": [
+                {
+                    "translation": "половой акт"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "interrupt",
+            "transcription": "[ɪntəˈrʌpt]",
+            "translations": [
+                {
+                    "translation": "прерывать"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "trick",
+            "transcription": "[trɪk]",
+            "translations": [
+                {
+                    "translation": "уловка"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "switch",
+            "transcription": "[swɪʧ]",
+            "translations": [
+                {
+                    "translation": "переключатель"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "tub",
+            "transcription": "[tʌb]",
+            "translations": [
+                {
+                    "translation": "ванна"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "familiar",
+            "transcription": "[fəˈmɪlɪə]",
+            "translations": [
+                {
+                    "translation": "хорошо знакомый"
+                },
+                {
+                    "translation": "известный"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "resolution",
+            "transcription": "[rezəˈluːʃn]",
+            "translations": [
+                {
+                    "translation": "решение"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "sentiment",
+            "transcription": "[ˈsentɪmənt]",
+            "translations": [
+                {
+                    "translation": "сентиментальность"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "express",
+            "transcription": "[ɪksˈpres]",
+            "translations": [
+                {
+                    "translation": "высказывать"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "stick",
+            "transcription": "[stɪk]",
+            "translations": [
+                {
+                    "translation": "прилипать"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "examine",
+            "transcription": "[ɪgˈzæmɪn]",
+            "translations": [
+                {
+                    "translation": "исследовать"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "chain of causality",
+            "transcription": "",
+            "translations": [
+                {
+                    "translation": "цепочка причинно следственных связей"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "event",
+            "transcription": "[ɪˈvent]",
+            "translations": [
+                {
+                    "translation": "событие"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "halfway",
+            "transcription": "[hɑːfˈweɪ]",
+            "translations": [
+                {
+                    "translation": "на полпути"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "retrieve",
+            "transcription": "[rɪˈtriːv]",
+            "translations": [
+                {
+                    "translation": "возвращать"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "aforementioned",
+            "transcription": "[əˈfɔːmenʃnd]",
+            "translations": [
+                {
+                    "translation": "вышеупомянутый"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "query",
+            "transcription": "[ˈkwɪərɪ]",
+            "translations": [
+                {
+                    "translation": "запрос"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "existence",
+            "transcription": "[ɪgˈzɪstəns]",
+            "translations": [
+                {
+                    "translation": "существование"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "proximal",
+            "transcription": "[ˈprɒksɪml]",
+            "translations": [
+                {
+                    "translation": "ближайший"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "contradistinction",
+            "transcription": "[kɒntrədɪsˈtɪŋkʃn]",
+            "translations": [
+                {
+                    "translation": "противопоставление"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "impossibility",
+            "transcription": "[ɪmpɒsəˈbɪlɪtɪ]",
+            "translations": [
+                {
+                    "translation": "невозможность"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "breakup",
+            "transcription": "[ˈbreɪkʌp]",
+            "translations": [
+                {
+                    "translation": "расставание"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "mend",
+            "transcription": "[mend]",
+            "translations": [
+                {
+                    "translation": "чинить"
+                },
+                {
+                    "translation": "исправить"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "complicate",
+            "transcription": "[ˈkɒmplɪkɪt]",
+            "translations": [
+                {
+                    "translation": "усложнять"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "dispute",
+            "transcription": "[dɪsˈpjuːt]",
+            "translations": [
+                {
+                    "translation": "спор"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "custody",
+            "transcription": "[ˈkʌstədɪ]",
+            "translations": [
+                {
+                    "translation": "ответственное хранение"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "scene",
+            "transcription": "[siːn]",
+            "translations": [
+                {
+                    "translation": "сцена"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "pick up",
+            "transcription": "[pɪk ʌp]",
+            "translations": [
+                {
+                    "translation": "забрать"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "get lost",
+            "transcription": "",
+            "translations": [
+                {
+                    "translation": "затеряться"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "privilege",
+            "transcription": "[ˈprɪvɪlɪʤ]",
+            "translations": [
+                {
+                    "translation": "привилегия"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "combine",
+            "transcription": "[ˈkɒmbaɪn]",
+            "translations": [
+                {
+                    "translation": "объединять"
+                },
+                {
+                    "translation": "сочетать"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "intercom",
+            "transcription": "[ˈɪntəkɒm]",
+            "translations": [
+                {
+                    "translation": "домофон"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "dragged",
+            "transcription": "[drægd]",
+            "translations": [
+                {
+                    "translation": "втянутый"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "establish",
+            "transcription": "[ɪsˈtæblɪʃ]",
+            "translations": [
+                {
+                    "translation": "основывать"
+                },
+                {
+                    "translation": "образовать"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "regard",
+            "transcription": "[rɪˈgɑːd]",
+            "translations": [
+                {
+                    "translation": "отношение"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "fairly",
+            "transcription": "[ˈfeəlɪ]",
+            "translations": [
+                {
+                    "translation": "довольно"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "explanatory",
+            "transcription": "[ɪksˈplænətərɪ]",
+            "translations": [
+                {
+                    "translation": "пояснительный"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "instead",
+            "transcription": "[ɪnˈsted]",
+            "translations": [
+                {
+                    "translation": "вместо"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "valid",
+            "transcription": "[ˈvælɪd]",
+            "translations": [
+                {
+                    "translation": "допустимый"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "hypothesis",
+            "transcription": "[haɪˈpɒθɪsɪs]",
+            "translations": [
+                {
+                    "translation": "гипотеза"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "terrific",
+            "transcription": "[təˈrɪfɪk]",
+            "translations": [
+                {
+                    "translation": "потрясающий"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "purse",
+            "transcription": "[pɜːs]",
+            "translations": [
+                {
+                    "translation": "кошелек"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "cuisine",
+            "transcription": "[kwɪˈziːn]",
+            "translations": [
+                {
+                    "translation": "кулинария"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "redundant",
+            "transcription": "[rɪˈdʌndənt]",
+            "translations": [
+                {
+                    "translation": "избыточный"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "don t get hooked on me",
+            "transcription": "",
+            "translations": [
+                {
+                    "translation": "не попадайся мне на крючок"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        },
+        {
+            "name": "veritable",
+            "transcription": "[ˈverɪtəbl]",
+            "translations": [
+                {
+                    "translation": "подлинный"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 0
+        }
+    ]
+}

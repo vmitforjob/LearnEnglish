@@ -1,0 +1,156 @@
+{
+    "words": [
+        {
+            "name": "descendants",
+            "transcription": "[dɪˈsendənts]",
+            "translations": [
+                {
+                    "translation": "потомок"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 2
+        },
+        {
+            "name": "fulcrum",
+            "transcription": "[ˈfʊlkrəm]",
+            "translations": [
+                {
+                    "translation": "точка опоры"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 2
+        },
+        {
+            "name": "lever",
+            "transcription": "[ˈliːvə]",
+            "translations": [
+                {
+                    "translation": "рычаг"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 1
+        },
+        {
+            "name": "incline",
+            "transcription": "[ɪnˈklaɪn]",
+            "translations": [
+                {
+                    "translation": "наклонять"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 1
+        },
+        {
+            "name": "force",
+            "transcription": "[fɔːs]",
+            "translations": [
+                {
+                    "translation": "сила"
+                },
+                {
+                    "translation": "усилие"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 1
+        },
+        {
+            "name": "require",
+            "transcription": "[rɪˈkwaɪə]",
+            "translations": [
+                {
+                    "translation": "требовать"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 1
+        },
+        {
+            "name": "reduce",
+            "transcription": "[rɪˈdjuːs]",
+            "translations": [
+                {
+                    "translation": "уменьшить"
+                },
+                {
+                    "translation": "снижать"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 1
+        },
+        {
+            "name": "degree",
+            "transcription": "[dɪˈgriː]",
+            "translations": [
+                {
+                    "translation": "степень"
+                },
+                {
+                    "translation": "уровень"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 1
+        },
+        {
+            "name": "push",
+            "transcription": "[pʊʃ]",
+            "translations": [
+                {
+                    "translation": "толкать"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 1
+        },
+        {
+            "name": "pull",
+            "transcription": "[pʊl]",
+            "translations": [
+                {
+                    "translation": "тянуть"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 1
+        },
+        {
+            "name": "effort",
+            "transcription": "[ˈefət]",
+            "translations": [
+                {
+                    "translation": "усилие"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 1
+        },
+        {
+            "name": "increase",
+            "transcription": "",
+            "translations": [
+                {
+                    "translation": "увеличение"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 1
+        },
+        {
+            "name": "expecting",
+            "transcription": "[ɪkˈspektɪŋ]",
+            "translations": [
+                {
+                    "translation": "ожидающий"
+                }
+            ],
+            "skill": 0,
+            "correct_answer": 1
+        }
+    ]
+}
