@@ -28,7 +28,7 @@ class ConvertFileWordsToWords:
             word.name = text[:index].strip()
             index_end = text.find(']')
             word.transcription = text[index:index_end + 1].strip()
-            split_text = text[index_end + 1:].strip().split(',')
+            split_text = re.split('; |, ', text[index_end + 1:].strip())
             for t in split_text:
                 word.translations.append(Translation(t))
         else:

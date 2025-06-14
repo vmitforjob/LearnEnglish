@@ -1,16 +1,20 @@
 import sys
 
 from PyQt6 import uic, QtWidgets
+from PyQt6.QtCore import pyqtSignal
 from PyQt6.QtWidgets import QWidget, QApplication, QLineEdit
 
+from code.data.VList import VList
 from code.data.Words import Words
 from code.scripts.ConvertAndSaveWordsToJSON import ConvertAndSaveWordsToJSON
 from code.scripts.ConvertFileWordsToWords import ConvertFileWordsToWords
+from code.scripts.SaveVListToJSON import SaveVListToJSON
 from code.widgets.ViewWords import ViewWord
 
 
 class CreateListWords(QWidget):
     words: Words = Words()
+    changed_value = pyqtSignal(VList)
 
     def __init__(self):
         super().__init__()
@@ -26,11 +30,24 @@ class CreateListWords(QWidget):
 
     def on_but_save_released(self):
         if self.valid_list():
-            convert = ConvertAndSaveWordsToJSON()
-            convert.saveWordsToJSONFile(self.words, self.line_name_list.text())
-            print('Сохранено')
+
+            self.save_words()
+            print(f'{self.line_name_list.text()} сохранен. Слов в списке: {len(self.words.words)}')
+            self.close()
+
         else:
-            print('Не правильно!')#TheBigBangtheoryS1E1
+            print('Не правильно!')
+
+    def save_words(self):
+
+        convert = ConvertAndSaveWordsToJSON()
+        convert.saveWordsToJSONFile(self.words, self.line_name_list.text())
+        vList = VList()
+        vList.name = f'{self.line_name_list.text()}'
+        vList.number = len(self.words.words)
+        vList.pathListWords = f'{self.line_name_list.text()}.json'
+        self.changed_value.emit(vList)
+        SaveVListToJSON().saveVListToJSON(vList)
 
     def valid_list(self):
         if not self.words.words:

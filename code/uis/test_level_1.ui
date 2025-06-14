@@ -6,9 +6,15 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>302</width>
-    <height>243</height>
+    <width>315</width>
+    <height>192</height>
    </rect>
+  </property>
+  <property name="sizePolicy">
+   <sizepolicy hsizetype="Maximum" vsizetype="Maximum">
+    <horstretch>0</horstretch>
+    <verstretch>0</verstretch>
+   </sizepolicy>
   </property>
   <property name="windowTitle">
    <string>Form</string>
@@ -33,125 +39,160 @@
     <number>0</number>
    </property>
    <item>
-    <layout class="QVBoxLayout" name="verticalLayout_3" stretch="1,1,0">
+    <layout class="QVBoxLayout" name="verticalLayout_3" stretch="0,0,0,0">
      <property name="spacing">
       <number>0</number>
      </property>
      <item>
-      <layout class="QHBoxLayout" name="horizontalLayout">
-       <property name="leftMargin">
-        <number>6</number>
+      <widget class="QWidget" name="widget" native="true">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
        </property>
-       <property name="rightMargin">
-        <number>6</number>
+       <property name="maximumSize">
+        <size>
+         <width>16777215</width>
+         <height>16777215</height>
+        </size>
        </property>
-       <item>
-        <widget class="QLabel" name="label">
-         <property name="font">
-          <font>
-           <pointsize>20</pointsize>
-          </font>
-         </property>
-         <property name="styleSheet">
-          <string notr="true">background-color: rgba(255, 255, 255, 0);
+       <layout class="QHBoxLayout" name="horizontalLayout">
+        <property name="leftMargin">
+         <number>6</number>
+        </property>
+        <property name="rightMargin">
+         <number>6</number>
+        </property>
+        <item>
+         <widget class="QLabel" name="label_word">
+          <property name="font">
+           <font>
+            <pointsize>20</pointsize>
+           </font>
+          </property>
+          <property name="styleSheet">
+           <string notr="true">background-color: rgba(255, 255, 255, 0);
 color: rgb(246, 245, 244);</string>
-         </property>
-         <property name="text">
-          <string>example word</string>
-         </property>
-         <property name="alignment">
-          <set>Qt::AlignCenter</set>
-         </property>
-         <property name="margin">
-          <number>10</number>
-         </property>
-        </widget>
-       </item>
-       <item>
-        <widget class="QLabel" name="label_2">
-         <property name="maximumSize">
-          <size>
-           <width>50</width>
-           <height>50</height>
-          </size>
-         </property>
-         <property name="styleSheet">
-          <string notr="true">background-color: rgba(255, 255, 255, 0);</string>
-         </property>
-         <property name="text">
-          <string/>
-         </property>
-         <property name="pixmap">
-          <pixmap>../../icons/checked.png</pixmap>
-         </property>
-         <property name="scaledContents">
-          <bool>true</bool>
-         </property>
-        </widget>
-       </item>
-      </layout>
+          </property>
+          <property name="text">
+           <string>Example word
+[example word]</string>
+          </property>
+          <property name="alignment">
+           <set>Qt::AlignCenter</set>
+          </property>
+          <property name="margin">
+           <number>10</number>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QLabel" name="label_right">
+          <property name="maximumSize">
+           <size>
+            <width>50</width>
+            <height>50</height>
+           </size>
+          </property>
+          <property name="styleSheet">
+           <string notr="true">background-color: rgba(255, 255, 255, 0);</string>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+          <property name="pixmap">
+           <pixmap>../../icons/checked.png</pixmap>
+          </property>
+          <property name="scaledContents">
+           <bool>true</bool>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </widget>
      </item>
      <item>
-      <layout class="QHBoxLayout" name="horizontalLayout_2">
-       <property name="leftMargin">
-        <number>6</number>
+      <spacer name="verticalSpacer">
+       <property name="orientation">
+        <enum>Qt::Vertical</enum>
        </property>
-       <property name="rightMargin">
-        <number>6</number>
+       <property name="sizeHint" stdset="0">
+        <size>
+         <width>20</width>
+         <height>40</height>
+        </size>
        </property>
-       <item>
-        <widget class="QLineEdit" name="line_translate">
-         <property name="minimumSize">
-          <size>
-           <width>200</width>
-           <height>40</height>
-          </size>
-         </property>
-         <property name="styleSheet">
-          <string notr="true">border-radius: 15px;
+      </spacer>
+     </item>
+     <item>
+      <widget class="QWidget" name="widget" native="true">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="maximumSize">
+        <size>
+         <width>16777215</width>
+         <height>16777215</height>
+        </size>
+       </property>
+       <layout class="QHBoxLayout" name="horizontalLayout_2">
+        <property name="leftMargin">
+         <number>6</number>
+        </property>
+        <property name="topMargin">
+         <number>6</number>
+        </property>
+        <property name="rightMargin">
+         <number>6</number>
+        </property>
+        <property name="bottomMargin">
+         <number>6</number>
+        </property>
+        <item>
+         <widget class="QLineEdit" name="line_translate">
+          <property name="minimumSize">
+           <size>
+            <width>200</width>
+            <height>40</height>
+           </size>
+          </property>
+          <property name="styleSheet">
+           <string notr="true">border-radius: 15px;
 color: rgb(246, 245, 244);
 background-color: rgba(220, 220, 220, 167);
 border: 2px solid #000;
 padding-left: 5px;
 padding-right: 5px;</string>
-         </property>
-         <property name="text">
-          <string/>
-         </property>
-         <property name="placeholderText">
-          <string>Введите перевод</string>
-         </property>
-        </widget>
-       </item>
-       <item>
-        <widget class="QPushButton" name="but_check">
-         <property name="styleSheet">
-          <string notr="true">QPushButton {
-color: rgb(250, 250, 250);
-background-color: rgba(255, 255, 255, 0);
-border-radius: 5px;
-border: 2px solid #000;
-}</string>
-         </property>
-         <property name="text">
-          <string/>
-         </property>
-         <property name="icon">
-          <iconset>
-           <normaloff>../../icons/check-mark.png</normaloff>../../icons/check-mark.png</iconset>
-         </property>
-         <property name="iconSize">
-          <size>
-           <width>35</width>
-           <height>35</height>
-          </size>
-         </property>
-        </widget>
-       </item>
-      </layout>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+          <property name="placeholderText">
+           <string>Введите перевод</string>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </widget>
      </item>
      <item>
       <widget class="QWidget" name="widget" native="true">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="maximumSize">
+        <size>
+         <width>16777215</width>
+         <height>16777215</height>
+        </size>
+       </property>
        <property name="styleSheet">
         <string notr="true">background-color: rgba(23, 23, 23, 148);</string>
        </property>
@@ -159,7 +200,13 @@ border: 2px solid #000;
         <property name="leftMargin">
          <number>6</number>
         </property>
+        <property name="topMargin">
+         <number>6</number>
+        </property>
         <property name="rightMargin">
+         <number>6</number>
+        </property>
+        <property name="bottomMargin">
          <number>6</number>
         </property>
         <item>
@@ -171,12 +218,48 @@ border: 2px solid #000;
            </sizepolicy>
           </property>
           <property name="styleSheet">
-           <string notr="true">color: rgb(246, 245, 244);</string>
+           <string notr="true">color: rgb(246, 245, 244);
+background-color: rgba(0,0,0,0);</string>
           </property>
           <property name="text">
            <string>Right: 0</string>
           </property>
          </widget>
+        </item>
+        <item>
+         <widget class="QLabel" name="label_check">
+          <property name="maximumSize">
+           <size>
+            <width>25</width>
+            <height>25</height>
+           </size>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+          <property name="pixmap">
+           <pixmap>../../icons/checked.png</pixmap>
+          </property>
+          <property name="scaledContents">
+           <bool>true</bool>
+          </property>
+          <property name="alignment">
+           <set>Qt::AlignCenter</set>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <spacer name="horizontalSpacer_3">
+          <property name="orientation">
+           <enum>Qt::Horizontal</enum>
+          </property>
+          <property name="sizeHint" stdset="0">
+           <size>
+            <width>40</width>
+            <height>20</height>
+           </size>
+          </property>
+         </spacer>
         </item>
         <item>
          <widget class="QPushButton" name="but_back">
@@ -188,7 +271,7 @@ border: 2px solid #000;
           </property>
           <property name="minimumSize">
            <size>
-            <width>50</width>
+            <width>0</width>
             <height>0</height>
            </size>
           </property>
@@ -197,11 +280,58 @@ border: 2px solid #000;
 color: rgb(250, 250, 250);
 background-color: rgba(255, 255, 255, 0);
 border-radius: 5px;
-border: 1px solid #ffffff;
+border: 0px solid #ffffff;
+padding-left:10px;
+padding-right:10px;
+padding-top:2px;
+padding-bottom:2px;
 }</string>
           </property>
           <property name="text">
-           <string>&lt;</string>
+           <string/>
+          </property>
+          <property name="icon">
+           <iconset>
+            <normaloff>../../icons/left-arrow.png</normaloff>../../icons/left-arrow.png</iconset>
+          </property>
+          <property name="iconSize">
+           <size>
+            <width>16</width>
+            <height>16</height>
+           </size>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QPushButton" name="but_check">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Maximum" vsizetype="Maximum">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="styleSheet">
+           <string notr="true">QPushButton {
+color: rgb(250, 250, 250);
+background-color: rgba(255, 255, 255, 0);
+border-radius: 5px;
+border: 0px solid #000;
+padding-left:5px;
+padding-right:5px;
+}</string>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+          <property name="icon">
+           <iconset>
+            <normaloff>../../icons/check-mark.png</normaloff>../../icons/check-mark.png</iconset>
+          </property>
+          <property name="iconSize">
+           <size>
+            <width>20</width>
+            <height>20</height>
+           </size>
           </property>
          </widget>
         </item>
@@ -215,7 +345,7 @@ border: 1px solid #ffffff;
           </property>
           <property name="minimumSize">
            <size>
-            <width>50</width>
+            <width>0</width>
             <height>0</height>
            </size>
           </property>
@@ -224,13 +354,40 @@ border: 1px solid #ffffff;
 color: rgb(250, 250, 250);
 background-color: rgba(255, 255, 255, 0);
 border-radius: 5px;
-border: 1px solid #ffffff;
+border: 0px solid #ffffff;
+padding-left:10px;
+padding-right:10px;
+padding-top:2px;
+padding-bottom:2px;
 }</string>
           </property>
           <property name="text">
-           <string>&gt;</string>
+           <string/>
+          </property>
+          <property name="icon">
+           <iconset>
+            <normaloff>../../icons/right-arrow.png</normaloff>../../icons/right-arrow.png</iconset>
+          </property>
+          <property name="iconSize">
+           <size>
+            <width>16</width>
+            <height>16</height>
+           </size>
           </property>
          </widget>
+        </item>
+        <item>
+         <spacer name="horizontalSpacer_4">
+          <property name="orientation">
+           <enum>Qt::Horizontal</enum>
+          </property>
+          <property name="sizeHint" stdset="0">
+           <size>
+            <width>40</width>
+            <height>20</height>
+           </size>
+          </property>
+         </spacer>
         </item>
         <item>
          <widget class="QLabel" name="label_count_list">
@@ -241,7 +398,8 @@ border: 1px solid #ffffff;
            </sizepolicy>
           </property>
           <property name="styleSheet">
-           <string notr="true">color: rgb(246, 245, 244);</string>
+           <string notr="true">color: rgb(246, 245, 244);
+background-color: rgba(0,0,0,0);</string>
           </property>
           <property name="text">
            <string>0/0</string>
